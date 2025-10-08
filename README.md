@@ -24,7 +24,7 @@ I have been coding for 3 years and I am constantly improving.
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/dadada"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 <img
-src="https://cms.kapook.com/uploads/tag/1/ID_328_636238eed4a98.jpg" width="100" height="100" />
+src="https://cms.kapook.com/uploads/tag/1/ID_328_636238eed4a98.jpg" width="350" height="350" />
 
 </ul>
 
