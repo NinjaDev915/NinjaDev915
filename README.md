@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is NinjaDev
 =================================================================================================================================
-![](https://komarev.com/ghpvc/?username=NinjaDev915&color=green)
 Web developers and designers
 ----------------------------
 
@@ -25,3 +24,7 @@ I have been coding for 3 years and I am constantly improving.
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/dadada"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
+
+![](https://komarev.com/ghpvc/?username=NinjaDev915&color=green)
+![](https://komarev.com/ghpvc/?username=NinjaDev915&color=yellow)
+![](https://komarev.com/ghpvc/?username=NinjaDev915&color=red)
