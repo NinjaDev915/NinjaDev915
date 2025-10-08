@@ -29,6 +29,4 @@ I have been coding for 3 years and I am constantly improving.
 ![](https://komarev.com/ghpvc/?username=NinjaDev915&color=yellow)
 ![](https://komarev.com/ghpvc/?username=NinjaDev915&color=red)
 
-<img
-src="<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/7455a2ff-cb9e-4bd4-aeee-0eeebdb9f8cf" />
-" width="100" height="100" />
+![Uploading image.png…]()
